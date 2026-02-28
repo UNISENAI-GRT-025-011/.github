@@ -12,11 +12,12 @@ Este espaço foi criado para centralizar, organizar e versionar nossos projetos 
 - **Colaboração:** Permitir que os membros da equipe trabalhem juntos em trabalhos de grupo utilizando boas práticas de versionamento (Git/GitHub).
 - **Portfólio:** Construir uma base sólida de código que sirva de vitrine para o nosso aprendizado em desenvolvimento de software, desde a base teórica até aplicações práticas.
 
-## 👾 Comunidade
+## 👾 Comunidade e Networking
 
-Além deste espaço no GitHub, temos um canal focado em networking, troca de conhecimentos e ajuda mútua. Participe da nossa comunidade no Discord **"UniSENAI - Programadores"**!
+Além deste espaço no GitHub, temos canais focados em networking, troca de conhecimentos e ajuda mútua. Conecte-se com a gente:
 
-👉 [**Clique aqui para entrar no servidor**](https://discord.gg/QfB4znpuVB)
+- 💬 **Discord:** Participe do nosso servidor **"UniSENAI - Programadores"** para bater papo, tirar dúvidas e codar junto. [**Clique aqui para entrar**](https://discord.gg/QfB4znpuVB)
+- 💼 **LinkedIn:** Faça parte do nosso grupo oficial para expandir sua rede de contatos profissionais e compartilhar oportunidades. [**Acesse nosso grupo**](https://www.linkedin.com/groups/10081035/)
 
 ## 👥 Membros
 
