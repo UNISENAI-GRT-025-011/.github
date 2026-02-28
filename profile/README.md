@@ -1,4 +1,4 @@
-# 🎓 UniSenai Mato Grosso - GRT.025.011
+# 🎓 UniSENAI Mato Grosso - GRT.025.011
 
 Bem-vindo à organização do GitHub da turma **GRT.025.011** do **UniSenai Mato Grosso**. 
 
